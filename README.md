@@ -3,6 +3,9 @@
 ## 📌 Problem Statement
 Design an online quiz platform that evaluates user knowledge through timed multiple-choice questions and displays instant results.
 
+## 🌐 Live Project Link
+👉 https://ibm-virid.vercel.app/
+
 
 ## 📝 Project Description
 The Quiz & Assessment System is a web-based application developed using HTML, CSS, and JavaScript.
