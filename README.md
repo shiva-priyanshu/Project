@@ -48,3 +48,45 @@ Quiz-App:-
   style.css,
   script.js
 
+
+  
+---
+
+## 👥 Team Contributions (4 Members)
+
+### 👤 Member 1 – UI Designer
+- Designed the user interface using HTML and CSS  
+- Created layout, colors, and button styles  
+
+### 👤 Member 2 – JavaScript Logic Developer
+- Implemented quiz logic  
+- Added timer and score calculation  
+- Managed question flow  
+
+### 👤 Member 3 – API & Data Handler
+- Integrated Open Trivia API  
+- Handled JSON data  
+- Implemented question randomization  
+
+### 👤 Member 4 – GitHub & Documentation Manager
+- Managed GitHub repository  
+- Created README.md  
+- Handled commits and project deployment  
+
+---
+
+
+## 🎯 Purpose of the Project
+This project is developed as part of academic coursework to understand:
+- Web development basics  
+- API integration  
+- JavaScript logic  
+- Team collaboration using GitHub  
+
+---
+
+## 📌 Conclusion
+The Quiz & Assessment System successfully demonstrates a real-time quiz application
+with API integration, teamwork, and version control using GitHub.
+
+
