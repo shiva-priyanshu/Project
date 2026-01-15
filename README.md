@@ -43,9 +43,8 @@ JavaScript logic, and collaborative development using GitHub.
 ---
 
 ## 📁 Project Structure
-Quiz-App/
-│
-├── index.html
-├── style.css
-└── script.js
+Quiz-App:-
+  index.html,
+  style.css,
+  script.js
 
